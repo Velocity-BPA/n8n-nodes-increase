@@ -1,0 +1,34 @@
+# Source files
+credentials/
+nodes/
+*.ts
+!*.d.ts
+
+# Config files
+tsconfig.json
+.eslintrc.json
+.prettierrc
+gulpfile.js
+jest.config.js
+
+# Test files
+__tests__/
+*.test.ts
+*.spec.ts
+coverage/
+
+# Development
+.idea/
+.vscode/
+.git/
+.github/
+
+# Documentation (keep README)
+COMMERCIAL_LICENSE.md
+LICENSING_FAQ.md
+README_LICENSING.md
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
