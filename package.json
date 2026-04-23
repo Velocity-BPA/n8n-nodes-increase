@@ -17,7 +17,7 @@
     "banking-as-a-service",
     "federal-reserve"
   ],
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "homepage": "https://velobpa.com",
   "author": {
     "name": "Velocity BPA",
@@ -63,7 +63,7 @@
     "eslint": "^8.57.1",
     "gulp": "^5.0.0",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.69.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.4.2",
     "rimraf": "^6.0.1",
     "ts-jest": "^29.2.5",
